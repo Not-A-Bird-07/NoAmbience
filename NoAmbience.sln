@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorilla Tag Mod Template", "NoAmbience\Gorilla Tag Mod Template.csproj", "{CFE9BB9B-60AF-453A-BC25-F39ED99FFB19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoAmbience", "NoAmbience\NoAmbience.csproj", "{CFE9BB9B-60AF-453A-BC25-F39ED99FFB19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
